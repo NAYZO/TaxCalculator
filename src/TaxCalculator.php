@@ -8,6 +8,8 @@ require_once __DIR__ . '/TaxCalculatorInterface.php';
 class TaxCalculator implements TaxCalculatorInterface
 {
     /**
+     * This Method calculate the tax income (it's a recursive function)
+     *
      * @param float $income
      * @param float $tax
      * @return float
