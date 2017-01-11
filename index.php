@@ -1,7 +1,7 @@
 <?php
 
 /**
- * This is the enter point of the Trip Sorter API
+ * This is the entery point of the Tax Calculator Project
  */
 
 require_once __DIR__ . '/src/TaxCalculator.php';
