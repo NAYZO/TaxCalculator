@@ -1,7 +1,7 @@
 <?php
 
 /**
- * This is the entery point of the Tax Calculator Project
+ * This is the entry point of the Tax Calculator Project
  */
 
 require_once __DIR__ . '/src/TaxCalculator.php';
